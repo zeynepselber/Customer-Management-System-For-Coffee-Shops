@@ -1,5 +1,5 @@
 
-# customer Management System For Coffee Shops
+# Customer Management System For Coffee Shops
 We want to write a customer management system for coffee shops.
 We work for Starbucks and Nero companies.
 Both companies want to register their customers in the database.
